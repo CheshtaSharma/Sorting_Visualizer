@@ -50,16 +50,10 @@ This app helps you see how each algorithm behaves and how many comparisons/swaps
    ```bash
    streamlit run app.py
 
-##📁 Project Structure
-  sorting-visualizer/
-  ├── app.py            # Streamlit UI & plotting
-  ├── sorting.py        # Sorting algorithm generators
-  ├── requirements.txt  # Dependencies
-  ├── .gitignore        # Ignored files/folders
-  └── README.md         # Project info
 
 🙋‍♀️ Author
 Made with 💙 by Cheshta Sharma
+
 
 ## License
 
